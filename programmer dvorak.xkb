@@ -1,0 +1,50 @@
+	key <AE01> { [ U0026,   U0025,  U208b,  U207b   ] };        // AMPERSAND,               PERCENT SIGN,               SUBSCRIPT MINUS,                                SUPERSCRIPT MINUS
+	key <AE02> { [ U005b,   7,      2087@,  U2077   ] };        // LEFT SQUARE BRACKET,     DIGIT SEVEN,                SUBSCRIPT SEVEN,                                SUPERSCRIPT SEVEN
+	key <AE03> { [ U007b,   5,      2085@,  U2075   ] };        // LEFT CURLY BRACKET,      DIGIT FIVE,                 SUBSCRIPT FIVE,                                 SUPERSCRIPT FIVE
+	key <AE04> { [ U007d,   3,      2083@,  U00b3   ] };        // RIGHT CURLY BRACKET,     DIGIT THREE,                SUBSCRIPT THREE,                                SUPERSCRIPT THREE
+	key <AE05> { [ U0028,   1,      2081@,  U00b9   ] };        // LEFT PARENTHESIS,        DIGIT ONE,                  SUBSCRIPT ONE,                                  SUPERSCRIPT ONE
+	key <AE06> { [ U003d,   9,      2089@,  U2079   ] };        // EQUALS SIGN,             DIGIT NINE,                 SUBSCRIPT NINE,                                 SUPERSCRIPT NINE
+	key <AE07> { [ U002a,   0,      U2080,  U2070   ] };        // ASTERISK,                DIGIT ZERO,                 SUBSCRIPT ZERO,                                 SUPERSCRIPT ZERO
+	key <AE08> { [ U0029,   2,      2082@,  U00b2   ] };        // RIGHT PARENTHESIS,       DIGIT TWO,                  SUBSCRIPT TWO,                                  SUPERSCRIPT TWO
+	key <AE09> { [ U002b,   4,      2084@,  U2074   ] };        // PLUS SIGN,               DIGIT FOUR,                 SUBSCRIPT FOUR,                                 SUPERSCRIPT FOUR
+	key <AE10> { [ U005d,   6,      2086@,  U2076   ] };        // RIGHT SQUARE BRACKET,    DIGIT SIX,                  SUBSCRIPT SIX,                                  SUPERSCRIPT SIX
+	key <AB10> { [ U0021,   8,      2088@,  U2078   ] };        // EXCLAMATION MARK,        DIGIT EIGHT,                SUBSCRIPT EIGHT,                                SUPERSCRIPT EIGHT
+	key <AE12> { [ U0023,   U0060,  208c@,  U207c   ] };        // NUMBER SIGN,             GRAVE ACCENT,               SUBSCRIPT EQUALS SIGN,                          SUPERSCRIPT EQUALS SIGN
+	key <AD01> { [ U003b,   U003a,  U00b0           ] };        // SEMICOLON,               COLON,                      DEGREE SIGN
+	key <AD02> { [ U002c,   U003c,  U00ab           ] };        // COMMA,                   LESS-THAN SIGN,             LEFT-POINTING DOUBLE ANGLE QUOTATION MARK *
+	key <AD03> { [ U002e,   U003e,  U00bb           ] };        // FULL STOP,               GREATER-THAN SIGN,          RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK *
+	key <AD04> { [ p,       P,      U00a3           ] };        // LATIN SMALL LETTER P,    LATIN CAPITAL LETTER P,     POUND SIGN
+	key <AD05> { [ y,       Y                       ] };        // LATIN SMALL LETTER Y,    LATIN CAPITAL LETTER Y
+	key <AB01> { [ f,       F                       ] };        // LATIN SMALL LETTER F,    LATIN CAPITAL LETTER F
+	key <AD07> { [ g,       G                       ] };        // LATIN SMALL LETTER G,    LATIN CAPITAL LETTER G
+	key <AD08> { [ c,       C,      U0107,  U0106   ] };        // LATIN SMALL LETTER C,    LATIN CAPITAL LETTER C,     LATIN SMALL LETTER C WITH ACUTE,                LATIN CAPITAL LETTER C WITH ACUTE
+	key <AD09> { [ r,       R                       ] };        // LATIN SMALL LETTER R,    LATIN CAPITAL LETTER R
+	key <AD10> { [ l,       L                       ] };        // LATIN SMALL LETTER L,    LATIN CAPITAL LETTER L
+	key <AD11> { [ U002f,           U003f           ] };        // SOLIDUS,                 QUESTION MARK
+	key <AD12> { [ U0040,           U005e           ] };        // COMMERCIAL AT,           CIRCUMFLEX ACCENT
+	key <AC01> { [ a,       A                       ] };        // LATIN SMALL LETTER A,    LATIN CAPITAL LETTER A
+	key <AC02> { [ o,       O                       ] };        // LATIN SMALL LETTER O,    LATIN CAPITAL LETTER O
+	key <AC03> { [ e,       E,      U20ac           ] };        // LATIN SMALL LETTER E,    LATIN CAPITAL LETTER E,     EURO SIGN
+	key <AC04> { [ u,       U                       ] };        // LATIN SMALL LETTER U,    LATIN CAPITAL LETTER U
+	key <AC05> { [ i,       I                       ] };        // LATIN SMALL LETTER I,    LATIN CAPITAL LETTER I,
+	key <AC06> { [ d,       D,      U0111,  U0110   ] };        // LATIN SMALL LETTER D,    LATIN CAPITAL LETTER D,     LATIN SMALL LETTER D WITH STROKE,               LATIN CAPITAL LETTER D WITH STROKE
+	key <AC07> { [ h,       H                       ] };        // LATIN SMALL LETTER H,    LATIN CAPITAL LETTER H
+	key <AC08> { [ t,       T,      U010d,  U010c   ] };        // LATIN SMALL LETTER T,    LATIN CAPITAL LETTER T,     LATIN SMALL LETTER C WITH CARON,                LATIN CAPITAL LETTER C WITH CARON
+	key <AC09> { [ n,       N                       ] };        // LATIN SMALL LETTER N,    LATIN CAPITAL LETTER N
+	key <AC10> { [ s,       S,      U0161,  U0160   ] };        // LATIN SMALL LETTER S,    LATIN CAPITAL LETTER S,     LATIN SMALL LETTER S WITH CARON,                LATIN CAPITAL LETTER S WITH CARON
+	key <AC11> { [ U002d,   U005f                   ] };        // HYPHEN-MINUS,            LOW LINE
+	key <TLDE> { [ 0024@,   007e@,  U208a,  U207a   ] };        // DOLLAR SIGN,             TILDE,                      SUBSCRIPT PLUS SIGN,                            SUPERSCRIPT PLUS SIGN
+	key <BKSL> { [ U005c,   U007c                   ] };        // REVERSE SOLIDUS,         VERTICAL LINE
+	key <AD06> { [ U0027,   U0022                   ] };        // APOSTROPHE,              QUOTATION MARK
+	key <AB02> { [ q,       Q                       ] };        // LATIN SMALL LETTER Q,    LATIN CAPITAL LETTER Q
+	key <AB03> { [ j,       J                       ] };        // LATIN SMALL LETTER J,    LATIN CAPITAL LETTER J
+	key <AB04> { [ k,       K                       ] };        // LATIN SMALL LETTER K,    LATIN CAPITAL LETTER K
+	key <AB05> { [ x,       X                       ] };        // LATIN SMALL LETTER X,    LATIN CAPITAL LETTER X
+	key <AB06> { [ b,       B                       ] };        // LATIN SMALL LETTER B,    LATIN CAPITAL LETTER B
+	key <AB07> { [ m,       M,      U03bc           ] };        // LATIN SMALL LETTER M,    LATIN CAPITAL LETTER M,     GREEK SMALL LETTER MU
+	key <AB08> { [ w,       W                       ] };        // LATIN SMALL LETTER W,    LATIN CAPITAL LETTER W
+	key <AB09> { [ v,       V                       ] };        // LATIN SMALL LETTER V,    LATIN CAPITAL LETTER V
+	key <AE11> { [ z,       Z,      U017e,  U017d   ] };        // LATIN SMALL LETTER Z,    LATIN CAPITAL LETTER Z,     LATIN SMALL LETTER Z WITH CARON,                LATIN CAPITAL LETTER Z WITH CARON
+	key <SPCE> { [ U0020,   U0020                   ] };        // SPACE,                   SPACE
+	key <LSGT> { [ U01c9,   U01c7,  U01cc,  U01ca   ] };        // LATIN SMALL LETTER LJ,   LATIN CAPITAL LETTER LJ,    LATIN SMALL LETTER NJ,                          LATIN CAPITAL LETTER NJ
+	key <KPDL> { [ U002e,   U002c                   ] };        // FULL STOP,               COMMA
